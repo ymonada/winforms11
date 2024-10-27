@@ -1,0 +1,17 @@
+C:\Users\sukhy\source\repos\storm11\storm11\bin\Debug\net8.0-windows\storm11.exe
+C:\Users\sukhy\source\repos\storm11\storm11\bin\Debug\net8.0-windows\storm11.deps.json
+C:\Users\sukhy\source\repos\storm11\storm11\bin\Debug\net8.0-windows\storm11.runtimeconfig.json
+C:\Users\sukhy\source\repos\storm11\storm11\bin\Debug\net8.0-windows\storm11.dll
+C:\Users\sukhy\source\repos\storm11\storm11\bin\Debug\net8.0-windows\storm11.pdb
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.Form1.resources
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.csproj.GenerateResource.cache
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.AssemblyInfoInputs.cache
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.AssemblyInfo.cs
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.csproj.CoreCompileInputs.cache
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.dll
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\refint\storm11.dll
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.pdb
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.genruntimeconfig.cache
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\ref\storm11.dll
+C:\Users\sukhy\source\repos\storm11\storm11\obj\Debug\net8.0-windows\storm11.Properties.Resources.resources
